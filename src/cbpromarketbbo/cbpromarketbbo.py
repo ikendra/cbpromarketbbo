@@ -1,6 +1,5 @@
-__all__ = ['CBProMarketBBO', 'timer']
-__version__ = '0.1'
-__author__ = 'Ivo Kendra'
+__all__ = ["CBProMarketBBO", "timer"]
+__author__ = "Ivo Kendra"
 
 import websocket
 import time
